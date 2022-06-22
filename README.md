@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @c-gamble
 - 👀 I’m interested in mobile development, backend engineering, and A/DS
-- 🌱 I’m currently learning experimental iOS apps 
+- 🌱 I’m currently work on experimental iOS apps 
 - 📫 How to reach me: www.linkedin.com/in/cooper-gamble
