@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @c-gamble
-- 👀 I’m interested in mobile development, backend engineering, and A/DS
-- 🌱 I’m currently working with react
+- 👀 I’m interested in deep learning, web development, and competitive programming
+- 🌱 I’m currently working on medical AI and lots of unfinished side projects
 - 📫 How to reach me: www.linkedin.com/in/cooper-gamble
