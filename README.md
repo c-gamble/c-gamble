@@ -1,8 +1,4 @@
-# About Me:
-🛠️ currently involved in healthcare AI research, fintech algorithms, data science, and web development<br>🤝always open to collaboration and networking<br>📚learning finance, physics, and cs<br>⚡️hobbies are rowing, puzzles, and being outdoors
-
-
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cooper-gamble) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thecoopergamble) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thecoopergamble) 
 
 # Tech Stack:
